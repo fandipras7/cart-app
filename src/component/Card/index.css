@@ -1,0 +1,43 @@
+.card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* height: 300px; */
+    border: none;
+    padding: 10px;
+}
+
+
+.card-info h3 {
+    color: grey;
+}
+
+
+.item-info {
+    font-size: 12px;
+    color: grey;
+}
+
+.count {
+    display: fle;
+}
+
+.quantity_item span {
+    width: 40px;
+    height: 25px;
+    background-repeat: no-repeat;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+
+.price_item {
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+}
+
+table tbody tr {
+    display: flex;
+    justify-content: space-between;
+}
